@@ -30,7 +30,4 @@
 
 
 ## 👨🏽‍💻 My Code
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-cardoso&layout=compact&langs_count=7&theme=monokai"/>
-</div>
+[![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=g-cardoso&layout=compact&langs_count=7&theme=monokai&hide=HTML,Racket)]([https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=g-cardoso&layout=compact&langs_count=7&theme=monokai&hide=HTML,Racket))
